@@ -28,7 +28,8 @@
    - Test access.
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b5eac439-0f51-4292-ba53-c00b20103b1c)
+<img width="854" height="433" alt="image" src="https://github.com/user-attachments/assets/3490f726-edde-47fa-967a-8fe40e9dfbe2" />
+
 
 ![image](https://github.com/user-attachments/assets/236b1c58-201d-4a60-b332-a99a36c9ed86)
 
