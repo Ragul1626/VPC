@@ -1,6 +1,6 @@
 # EX 4 :VPC
-## NAME:KARTHIK G.
-## REG NO:212223220043
+## NAME:Ragul M
+## REG NO:212224100048
 ## AIM: 
   To study the steps involved in setting up a private cloud using AWS or Microsoft Azure platforms and explore its core features and services. 
 
